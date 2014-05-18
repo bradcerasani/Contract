@@ -36,7 +36,8 @@ gulp.task('watch', function() {
 gulp.task('pdf', function() {
   return gulp.src('contract.md')
     .pipe(markdownpdf({
-      cssPath: './css/main.css'
+      // waiting for relative path support from markdown-pdf
+      cssPath: '../../../../../css/main.css'
     }))
     .pipe(gulp.dest('./'));
 });
