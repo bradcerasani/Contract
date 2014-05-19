@@ -22,14 +22,14 @@ gulp.task('markdown', function() {
 });
 
 gulp.task('styles', function() {
-  return gulp.src('sass/*.scss')
+  return gulp.src(paths.styles)
     .pipe(sass())
     .pipe(connect.reload())
     .pipe(gulp.dest('css'))
 });
 
 gulp.task('watch', function() {
-  gulp.watch('sass/*.scss', ['styles']);
+  gulp.watch(paths.styles, ['styles']);
   gulp.watch('*.md', ['markdown']);
 });
 
