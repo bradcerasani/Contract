@@ -1,28 +1,31 @@
-## Summary: 
+# Contract 
 
-We’ll always do our best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
+### Terms and definitions
 
-So in short;
+*‘This document’* refers to this contract and the terms and agreements within it.
+*‘The Work’* refers to the project for which this document was actioned.
+*‘You’* refers to the client or company on behalf of whom The Work is commissioned.
+*‘I’* refers to me, Brad Cerasani, working for You on behalf of Shedbot New Media.
 
-You ([customer name]), located at [customer address] are hiring us ([company name]) located at [company address] to [design and develop a web site] for the estimated total price of [total] as outlined in our previous correspondence.
+This document exists to protect the interests of all involved parties, to outline our responsibilities to one another, and to avoid any confusion or disappointment during and/or after our time working together. 
 
-## What do both parties agree to do? 
+If any part of this document is unclear please do not hesitate to contact me for clarification. Each project I undertake will have its own particular set of nuances, so I am able and willing to modify this document to suit the needs of The Work. Any amendments and/or additions must be requested prior to the signing of this document.
 
-*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us everything we need to complete the project as and when and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+### What do both parties agree to do? 
 
-*Us:* We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
+*You:* You have the authority to enter into this document on behalf of yourself, your company or your organization. You’ll give me everything I need to complete The Work as and when I need it. You agree to stick to the payment schedule described at the end of this document.
+
+*I:* I have the experience and expertise to do everything we’ve agreed to and I’ll do it all in a professional and timely manner. I'll do my best to meet every deadline we set together, and maintain the confidentiality of everything you give me.
 
 ## Details 
 
 ### Design 
 
-We create designs and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography).
-
-You’ll have plenty of opportunities to review our work and provide feedback.
+I design and develop flexible layouts that adapt to the capabilities of many devices and screen sizes. I work iteratively and design primarily in the browser instead of with static visuals.
 
 ### Text content 
 
-We’re not responsible for writing or inputting any text copy. If you’d like us to write new content or input text for you, we can provide a separate estimate for that.
+I'm not responsible for writing or inputting any text copy. If you require new copy or text input, I can provide a separate estimate for that.
 
 ### Graphics
 
@@ -30,13 +33,13 @@ You should supply graphic files in an editable, vector digital format. Sketch (.
 
 ### Photographs 
 
-You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for and license photographs for you, we can provide a separate estimate for that.
+You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, I can suggest stock libraries. If you’d like me to search for and license photographs for you, I can provide a separate estimate for that.
 
 ### HTML, CSS and JavaScript
 
 We deliver web page types developed from HTML5 markup, CSS3 stylesheets for styling and JavaScript for feature detection, poly-fills and behaviours. Depending on the specific requirements of your project, we may use other web technologies and languages in the development of your website.
 
-### Browser testing
+## Browser testing
 
 Browser testing _is not_ an attempt to make a website look the same in browsers with differing capabilities or on devices with varying screen resolutions. Browser testing _is_ ensuring that a user’s experience is appropriate to the capabilities of a browser or device.
 
@@ -55,23 +58,29 @@ We currently don’t test Blackberry, Opera Mini/Mobile, or other mobile browser
 
 # 3rd Party Products and Services
 
-3rd party products and services like domain name registration, website hosting, and email hosting are _not_ included in the website design and development fee. If 3rd party products and services are required for your project, they will be included as separate line items on your estimate, or in a separate estimate altogether. We do not markup these products and services; what we pay is what you pay.
+3rd party products and services such as domain name registration, website hosting, and email hosting are _not_ included in the website design and development fee. If 3rd party products and services are required for your project, they will be included as separate line items on your estimate or in a separate estimate altogether. We do not markup these products and services; what we pay is what you pay.
 
 ### Hosting and Deployment
 
-If you currently have a hosting plan, we will deploy your new website to your host's server. If you do not have a hosting plan or if your current hosting plan is deemed inadequate, we will make our best hosting recommendation based on the resource requirements of your new website. We will do a basic setup and configuration of your hosting environment to ensure your website runs quickly and securely. If we are setting up a new hosting account for you with a 3rd party, we can provide a separate estimate for that.
+If you currently have a hosting plan, we will deploy your new website to your existing server. If you do not have a hosting plan or if your current hosting plan is deemed inadequate, we will make our best hosting recommendation based on the resource requirements of your new website. We are not a hosting company, but If we are setting up a new hosting account for you with a 3rd party, we can provide a separate estimate for that.
 
 ### Email
 
-If you require email for your domain name, we can provide an estimate for that. 
+If you require email for your domain name, we can provide an estimate for that.
 
 ### Analytics
 
-We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you.
 
-### Changes and revisions 
 
-We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that.
+### Revisions, Amends, and Maintenance
+
+Any amends which do not drastically alter the scope of The Work do not require renegotiation of costs or this document.
+
+For any changes that alter the scope of The Work, please see the Change in scope section of this document.
+
+Any bugs, which, unfortunately, cannot be guaranteed against, that are directly related to The Work, and are discovered within two weeks of the end of The Work, shall be fixed as a matter of course, and require no renegotiation of terms. I also apologise in advance if we should ever find ourselves in this situation.
+
+Maintenance of The Work is not covered by either the project’s costs or this document unless explicitly agreed. 
 
 ### Legal stuff 
 
@@ -113,4 +122,4 @@ Signed by and on behalf of [company name]
 Signed by and on behalf of [customer name] 
 Date [date]
 
-Everyone should sign above and keep a copy for their records.
+Everyone should sign above and keep a copy for their records.  
